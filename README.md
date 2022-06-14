@@ -31,7 +31,7 @@ Program to implement the SVM For Spam Mail Detection..
 Developed by:Ch.Nagajyothi 
 RegisterNumber:212221230015  
 */
-```
+
 import pandas as pd
 import matplotlib.pyplot as plt
 
@@ -67,7 +67,7 @@ from sklearn import metrics
 accuracy = metrics.accuracy_score(y_test,y_pred)
 accuracy
 
-
+```
 
 ## Output:
 
